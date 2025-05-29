@@ -1,4 +1,3 @@
 ---
-title: J'apprends enfin à utiliser GitHub.
+title: Congocalypse MAH!gazine
 ---
-J'ai envie de jouer à Terraria.
